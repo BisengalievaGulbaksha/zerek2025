@@ -1,7 +1,5 @@
 
-a = 5
-b=3
-s = a * b
-print(s)
-p=2*(a+b)
-print(p)
+d=5
+pi=3.14
+l= d*pi
+print (l)
