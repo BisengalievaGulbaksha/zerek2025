@@ -1,10 +1,10 @@
 a=2
 b=2
-gs=a*a+b*b
-print (gs)
-gs= a*a-b*b
-print (gs)
-gs=a*a*b*b
-print (gs)
-gs=(a*a)/ (b*b)
-print(gs)
+s=a*a+b*b
+d= a*a-b*b
+r=a*a*b*b
+a=(a*a)/ (b*b)
+print (s)
+print (d)           
+print (r)
+print (a)
