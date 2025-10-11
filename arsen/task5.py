@@ -1,4 +1,5 @@
-a = 5
-v = a**3
+a = 5 
+v = 5**3
+print(a, v)
 s = 6*a**2
-print ( v, s )
+print(s)
