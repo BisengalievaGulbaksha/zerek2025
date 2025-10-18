@@ -1,6 +1,6 @@
+D=4
 pi=3.14
-R=4
-L=2*pi*R
-S=pi*R*R
+L=pi*D
+S=pi*D*D/4
 print (L)
 print (S)
