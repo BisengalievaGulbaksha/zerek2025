@@ -1,0 +1,6 @@
+x = input("atyndy zhaz:")
+print(x)
+x= input ("adam famylyasyn zhaz:")
+print (x)
+x= input ("jashyn zhaz:")
+print (x)
